@@ -189,11 +189,11 @@ diablespy [options] [value]
  
 <br>
 
-<img src="/DiableSpy/blob/main/images/DiableSpy1" width="40%"> <img src="/images/DiableSpy2" width="40%">
-<img src="/images/DiableSpy3" width="40%" >
-<img src="/images/DiableSpy4" width="40%" >
+<img src="/main/images/DiableSpy1" width="40%"> <img src="/main/images/DiableSpy2" width="40%">
+<img src="/main/images/DiableSpy3" width="40%" >
+<img src="/main/images/DiableSpy4" width="40%" >
 
-<img src="/images/DiableSpy5" width="80%" >
+<img src="/main/images/DiableSpy5" width="80%" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <hr>
