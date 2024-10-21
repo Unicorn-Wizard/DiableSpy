@@ -27,10 +27,9 @@
 3. [Usage](#usage)
    - [Options](#options)
    - [Examples](#examples)
-4. [Run in Gitpod](#run-with-gitpod)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+4. [Contributing](#contributing)
+
+
 
 <!-- ABOUT THE PROJECT -->
 
@@ -203,7 +202,7 @@ diablespy [options] [value]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Big Thanks
-Thank you so much to devsprite and infooze!  
+Thank you so much to devsprite!  
   
 
 ## License
